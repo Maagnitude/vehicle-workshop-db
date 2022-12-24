@@ -1,5 +1,5 @@
 # vehicle-workshop-db
-I build a DB to manage the requirements of the local vehicle workshops of an aithorised workshop network, using sqldeveloper.
+I build a DB to manage the requirements of the local vehicle workshops of an aithorised workshop network, using sqldeveloper. It was part of an assignment on the course of Databases with sqldeveloper.
 
 ER-diagram of the DB
 
