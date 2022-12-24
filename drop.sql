@@ -1,0 +1,10 @@
+DROP TABLE works_on;
+DROP TABLE performs;
+DROP TABLE executes;
+DROP TABLE hosts;
+DROP TABLE vehicle;
+DROP TABLE repair_task_type;
+DROP TABLE repair_parts;
+DROP TABLE repair_platform;
+DROP TABLE engineer_mechanic;
+DROP TABLE repair_station;
